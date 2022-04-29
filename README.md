@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @keerthi
+- 👋 Hi, I’m keerthi
 - 👀 I’m interested in food, longdrives and music
-- 🌱 I’m currently learning K8s & Helm, cloud
+- 🌱 I’m currently learning AWS Cloud, K8s & Helm 
 - 📫 How to reach me keerthi.n1307@gmail.com
 
 <!---
